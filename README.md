@@ -23,7 +23,7 @@ This repository contains a machine learning-based model designed to predict the 
 3. Run the Jupyter notebook or Python script to train and evaluate the model.
 
 # Dataset:
-The dataset used in this project contains [details about the data used for training]. You can either upload your own dataset or use the one provided in the repository.
+The dataset used in this project contains names of the dieases. You can either upload your own dataset or use the one provided in the repository.
 
 # Contribution:
 Feel free to fork the repository, submit issues, or create pull requests to improve the model or add new features.
